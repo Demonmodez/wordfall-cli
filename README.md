@@ -1,5 +1,9 @@
 # ⬇️ wordfall-cli
 
+<p align="center">
+  <img src="assets/wordfall-badge.png" alt="wordfall-cli badge" width="300"/>
+</p>
+
 A smooth and engaging typing game right in your terminal.  
 Words fall from the top—your mission: type them before they hit the ground!
 
